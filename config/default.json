@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://ecavazos:abstr8ct@devconnector-w07he.mongodb.net/test?retryWrites=true&w=majority"
+}
